@@ -1,1 +1,1 @@
-Creating anstatic website using HTML & CSS.
+Creating a Static website using HTML & CSS.
