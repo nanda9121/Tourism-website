@@ -1,0 +1,111 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.main-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+
+.main-heading {
+    color: blue;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.paragraph {
+    color: grey;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    height: 100vh;
+    padding: 10px;
+    font-family: Roboto;
+    margin: 10px;
+}
+
+.favourite-place-main-heading {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.favourite-place-card {
+    background-color: white;
+    border-radius: 8px;
+    height: 120px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.place-heading {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.place-info {
+    font-size: 13px;
+}
+
+.image {
+    height: 100px;
+    width: 80px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 24px;
+}
+
+.detailed-view-card-text-container {
+    padding: 10px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-discription {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
